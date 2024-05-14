@@ -16,6 +16,7 @@ should then filter out all books that were published before 2010 and create a ne
 books, but with their author names capitalized.
 
 3.JavaScript Fundamentals 2
+
 forEach,map,filter,every,findIndex,sort,some functions are explored
 
 4.Linkedin Validator
